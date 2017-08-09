@@ -38,8 +38,5 @@ rl.on('close',function(){
  process.exit(0);
 });
 
- rl.on('close',function(){
-  console.log('欢迎下次再来!');
-  process.exit(0);
-});
+
 
