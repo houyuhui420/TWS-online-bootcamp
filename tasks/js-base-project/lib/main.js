@@ -37,7 +37,3 @@ rl.on('close',function(){
  console.log('<---------------欢迎下次再来!--------------->');
  process.exit(0);
 });
-<<<<<<< HEAD
-=======
-
->>>>>>> 9f3cc562fc5ae9b4b8dbbe4ad38fa14e740f7b1e
